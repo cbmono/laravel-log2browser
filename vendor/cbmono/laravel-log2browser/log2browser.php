@@ -3,7 +3,7 @@
 /**
  * Log to Browser
  *
- * Send logs to your browser console
+ * Display logs on browser console
  * Supports Chrome and Firefox (Fire)
  *
  * @uses http://craig.is/writing/chrome-logger
